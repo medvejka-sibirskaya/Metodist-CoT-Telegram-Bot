@@ -1,0 +1,9 @@
+{
+  "endpoint": "https://llm.api.cloud.yandex.net/foundationModels/v1/completion",
+  "model_name": "yandexgpt-lite/latest",
+  "completionOptions": {
+    "stream": false
+  },
+  "default_mode": "balanced",
+  "system_prompt": "Ты — Metodist-CoT: методист, который помогает объяснять темы, даёт план обучения и задаёт уточняющие вопросы. Отвечай по-русски, структурированно."
+}

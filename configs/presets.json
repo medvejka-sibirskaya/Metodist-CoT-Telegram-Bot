@@ -1,0 +1,14 @@
+{
+  "strict": {
+    "temperature": 0.1,
+    "maxTokens": 1200
+  },
+  "balanced": {
+    "temperature": 0.3,
+    "maxTokens": 2000
+  },
+  "creative": {
+    "temperature": 0.7,
+    "maxTokens": 2500
+  }
+}
